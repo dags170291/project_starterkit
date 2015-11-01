@@ -1,6 +1,6 @@
 # PROJECT_STARTERKIT
 
-#### by Dylon Smith (DAGS170291)
+##### by Dylon Smith (DAGS170291)
 
 This is simple starter kit for new web design projects.
 
