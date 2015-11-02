@@ -1450,6 +1450,50 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/jadefiles\/includes\/footer.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jadefiles\/includes\/footer.jade",
+		"outputAbbreviatedPath": "\/jadefiles\/includes\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/jadefiles\/includes\/head.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jadefiles\/includes\/head.jade",
+		"outputAbbreviatedPath": "\/jadefiles\/includes\/head.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/jadefiles\/includes\/header.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jadefiles\/includes\/header.jade",
+		"outputAbbreviatedPath": "\/jadefiles\/includes\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/jadefiles\/includes\/section.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jadefiles\/includes\/section.jade",
+		"outputAbbreviatedPath": "\/jadefiles\/includes\/section.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
 	"\/jadefiles\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -1501,7 +1545,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "project_starterkit",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "globe_blue"
+	"iconImageName": "brackets_orange"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
